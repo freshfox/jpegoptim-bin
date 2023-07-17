@@ -3,3 +3,5 @@ yarn.lock
 /test/tmp
 /vendor/jpegoptim*
 /vendor/share
+
+.idea
