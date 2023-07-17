@@ -4,7 +4,6 @@
   "description": "jpegoptim wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
   "repository": "imagemin/jpegoptim-bin",
-  "type": "module",
   "exports": "./index.js",
   "author": {
     "name": "Shogo Sensui",
